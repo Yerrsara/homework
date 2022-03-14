@@ -8,9 +8,11 @@ Hi i'm Yerrou Sara an events planner to become
 
 ![(As succesfull as her in this movie)](https://user-images.githubusercontent.com/100361974/158233973-124d0c4a-352e-481b-84f2-2890e59cd3f7.gif)
 
+Here is the main events i'm organising in 2025
+
  | Events     | Dates |
 |   :---:     |    :----:   |
-| Salon de l'horlogerie | 01-03-25 TO 07-04-25 |
+| Salon de l'horlogerie | From 01-03-25 to 07-04-25 |
 | Mr and Mrs Ronaldo weeding | 10-06-25 |
 | Human rights Conference | 25-07-25 |
 
