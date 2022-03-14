@@ -14,13 +14,3 @@ As succesfull as her in this movie ![the-wedding-planner](https://user-images.gi
 | Mr and Mrs Ronaldo weeding | 10-06-25 |
 | Human rights Conference | 25-07-25 |
 
-
-+---------------+---------------+--------------------+
-| Events        | Staff         | Dates              |
-+===============+===============+====================+
-| Salon de Jet  | Group 1,2,3   |  From 10-03-25 to  |
-|   Privé       |               |   18-03-25         |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - **tasty**        |
-+---------------+---------------+--------------------+
