@@ -8,12 +8,19 @@ Hi i'm Yerrou Sara an events planner to become
 
 As succesfull as her in this movie ![the-wedding-planner](https://user-images.githubusercontent.com/100361974/158233973-124d0c4a-352e-481b-84f2-2890e59cd3f7.gif)
 
+ | Classes      | Time |
+|   :---:     |    :----:   |
+| Microeconomics  II | Monday 10-12 and Tuesday 12-14 |
+@ -21,6 +23,19 @@ output: html_document
+| Introduction to Sexologie | Wednesday 18-20 |
+| Security Of Informations Systems | Thursday 10-12 |
+
 
 +---------------+---------------+--------------------+
 | Events        | Staff         | Dates              |
 +===============+===============+====================+
-| *Bananas*     | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
+| Salon de Jet  | Group 1,2,3   |  From 10-03-25 to  |
+|   Privé       |               |   18-03-25         |
 +---------------+---------------+--------------------+
 | Oranges       | $2.10         | - cures scurvy     |
 |               |               | - **tasty**        |
