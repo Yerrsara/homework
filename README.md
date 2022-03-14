@@ -8,12 +8,11 @@ Hi i'm Yerrou Sara an events planner to become
 
 As succesfull as her in this movie ![the-wedding-planner](https://user-images.githubusercontent.com/100361974/158233973-124d0c4a-352e-481b-84f2-2890e59cd3f7.gif)
 
- | Classes      | Time |
+ | Events     | Dates |
 |   :---:     |    :----:   |
-| Microeconomics  II | Monday 10-12 and Tuesday 12-14 |
-@ -21,6 +23,19 @@ output: html_document
-| Introduction to Sexologie | Wednesday 18-20 |
-| Security Of Informations Systems | Thursday 10-12 |
+| Salon de l'horlogerie | 01-03-25 TO 07-04-25 |
+| Mr and Mrs Ronaldo weeding | 10-06-25 |
+| Human rights Conference | 25-07-25 |
 
 
 +---------------+---------------+--------------------+
