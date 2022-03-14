@@ -6,5 +6,4 @@ Hi i'm Yerrou Sara an events planner to become
 
 As succesfull as her in this movie ![the-wedding-planner](https://user-images.githubusercontent.com/100361974/158233973-124d0c4a-352e-481b-84f2-2890e59cd3f7.gif)
 
-
-`r emo::ji('desert')`
+![anyone-who-knows-me-knows-i-plan](https://user-images.githubusercontent.com/100361974/158236437-71977c06-3763-448a-b73c-7023be4dfe97.gif)
