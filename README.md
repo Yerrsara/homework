@@ -9,3 +9,12 @@ Hi i'm Yerrou Sara an events planner to become
 As succesfull as her in this movie ![the-wedding-planner](https://user-images.githubusercontent.com/100361974/158233973-124d0c4a-352e-481b-84f2-2890e59cd3f7.gif)
 
 
++---------------+---------------+--------------------+
+| Events        | Staff         | Dates              |
++===============+===============+====================+
+| *Bananas*     | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - **tasty**        |
++---------------+---------------+--------------------+
