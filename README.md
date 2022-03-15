@@ -13,6 +13,6 @@ Here is the main events i'm organising in 2025
  | Events     | Dates |
 |   :---:     |    :----:   |
 | Salon de l'horlogerie | From 01-03-25 to 07-04-25 |
-| Mr and Mrs Ronaldo weeding | 10-06-25 |
+| Mr and Mrs Ronaldo's weeding | 10-06-25 |
 | Human rights Conference | 25-07-25 |
 
